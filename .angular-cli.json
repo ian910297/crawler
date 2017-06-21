@@ -7,6 +7,7 @@
     {
       "root": "src",
       "outDir": "dist",
+      "deployUrl": "/crawler/",
       "assets": [
         "assets",
         "favicon.ico"
